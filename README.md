@@ -21,6 +21,7 @@ It focuses on clean backend–frontend separation and real-world ML deployment p
 - **Data Processing:** Pandas, NumPy  
 
 ## Project Structure
+```
 insurance-premium-predictor/
 ├── app.py          # FastAPI backend
 ├── frontend.py     # Streamlit frontend
@@ -28,7 +29,7 @@ insurance-premium-predictor/
 ├── requirements.txt
 ├── README.md
 └── model/          # Model and prediction logic
-
+```
 ## How to Run the Project
 ### 1. Install dependencies
 ```
